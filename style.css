@@ -1,0 +1,24 @@
+body{
+    display: block;
+    justify-items: center;
+    background-image: url(/img/Background.jpeg);
+    background-size: cover;
+}
+section{
+    display: block; 
+    justify-items: center;
+}
+div{
+    background-color: #fe0062; 
+   
+    border-radius: 20px; 
+    width: 400px; 
+    height: 500px; 
+    display: block; 
+    justify-items: center; 
+    padding: 20px;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
